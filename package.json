@@ -1,0 +1,19 @@
+{
+  "name": "y-combinator-js",
+  "version": "1.0.0",
+  "description": "y-combinator-js",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node --harmony node_modules/.bin/ava demo.js --verbose --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noob9527/y-combinator-js"
+  },
+  "author": "xy",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.18.1",
+    "chai": "^3.5.0"
+  }
+}
